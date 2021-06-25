@@ -7,7 +7,7 @@
 // 1) declara a função
                        // string
 
-function imprimetexto((soma))
+//function imprimetexto((soma))
     //console.log (texto)
 //}
 // 2) executa a funçao ( 1 ou + vezes)
@@ -15,7 +15,7 @@ function imprimetexto((soma))
 //imprimetexto("oi");
 //imprimetexto("crânio");
 //impremetexto("disciplina");
-function soma() {
-    return 2+ 2;
+function soma(Rildo) {
+    return 2 + 2;Rildo;
 }
 console.log(soma());
